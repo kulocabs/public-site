@@ -6,9 +6,19 @@
     <description>Recent content on Kulocabs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 09 Oct 2017 14:40:31 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kulo</title>
+      <link>/</link>
+      <pubDate>Mon, 09 Oct 2017 14:40:31 +0530</pubDate>
+      
+      <guid>/</guid>
+      <description>For any queries contact Justin Porathur at justin@kulocabs.com</description>
+    </item>
     
   </channel>
 </rss>
